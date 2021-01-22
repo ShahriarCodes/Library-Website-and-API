@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "/home/sal/.local/share/virtualenvs/Library-Website-and-API-kTBfO5J6/bin/python",
+    "python.formatting.provider": "black"
+}
