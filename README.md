@@ -1,5 +1,7 @@
 # Library-Website-and-API
-The first project from Django for APIs book
+The first project from the book **Django for APIs - Build web APIs with Python and Django** \
+by *William S. Vincent* \
+Get the book at [here](http://leanpub.com/djangoforapis)
 
 
 # Installation
