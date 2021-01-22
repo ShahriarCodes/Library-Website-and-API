@@ -31,7 +31,7 @@ If you look within our directory there are now two premade files: Pipfile and Pi
 $ pipenv shell
 ```
 
-If you are on a Mac you should now see parentheses around the name of your current directory on your command line which indicates the virtual environment is activated. Since we’re in a django directory that means we should see (django) at the beginning of the command line prompt. Windows users will not see the shell prompt. If you can run django-admin startproject in the next section then you know your virtual environment has Django installed properly.
+If you are on a Mac you should now see parentheses around the name of your current directory on your command line which indicates the virtual environment is activated. Since we’re in a Library-Website-and-API directory that means we should see (Library-Website-and-API) at the beginning of the command line prompt. Windows users will not see the shell prompt.
 
 ```
 (Library-Website-and-API) $
